@@ -2,7 +2,7 @@
 I am currently a student at the KTH Royal Institute of Technology in Stockholm, Sweden, where I'm pursuing a Master's degree in Computer Science.
 My passion for technology spans a variety of fields, from the intricacies of web development and systems programming to the creative challenges of game development.
 
-You can check out my website at [https://pontusasp.com](https://pontusasp.com)!
+You can check out my website at [https://pontusasp.com](https://pontusasp.com)
 <!--
 **pontusasp/pontusasp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
